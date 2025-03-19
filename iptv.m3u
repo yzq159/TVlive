@@ -233,8 +233,6 @@ http://39.134.64.87:6610/PLTV/88888888/224/3221226469/index.m3u8?IASHttpSessionI
 http://39.134.64.87:6610/PLTV/88888888/224/3221226508/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩广场舞.png" group-title="体验频道",睛彩广场舞
 http://39.134.64.87:6610/PLTV/88888888/224/3221226472/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频.png" group-title="体验频道",咪咕视频
-http://39.134.64.87:6610/PLTV/88888888/224/3221226398/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="淘电影" tvg-logo="https://live.fanmingming.cn/tv/淘电影.png" group-title="体验频道",淘电影
 http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
 #EXTINF:-1 tvg-name="淘剧场" tvg-logo="https://live.fanmingming.cn/tv/淘剧场.png" group-title="体验频道",淘剧场
