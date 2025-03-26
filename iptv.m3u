@@ -173,22 +173,6 @@ http://39.134.64.87:6610/PLTV/88888888/224/3221226433/index.m3u8?IASHttpSessionI
 http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226544/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eb2dn60YQRxhB5rAyOnrv0g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO_hnHaWpTsMQwR98VJGduo%2CEND
 #EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/安多卫视.png" group-title="卫视频道",安多卫视
 http://39.134.64.87:6610/PLTV/88888888/224/3221225659/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="凤凰卫视中文台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰卫视中文台
-http://iptv.huuc.edu.cn/hls/fhzw.m3u8
-#EXTINF:-1 tvg-name="凤凰卫视资讯台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰卫视资讯台
-http://iptv.huuc.edu.cn/hls/fhzx.m3u8
-#EXTINF:-1 tvg-name="凤凰卫视电影台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰卫视电影台.png" group-title="卫视频道",凤凰卫视电影台
-http://iptv.huuc.edu.cn/hls/fhdy.m3u8
-#EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/星空卫视.png" group-title="卫视频道",星空卫视
-http://iptv.huuc.edu.cn/hls/startv.m3u8
-#EXTINF:-1 tvg-name="channelv" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/channelv.png" group-title="卫视频道",channelv
-http://iptv.huuc.edu.cn/hls/channelv.m3u8
-#EXTINF:-1 tvg-name="卫视体育台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/卫视体育台.png" group-title="卫视频道",卫视体育台
-http://iptv.huuc.edu.cn/hls/starsports.m3u8
-#EXTINF:-1 tvg-name="探索频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/探索频道.png" group-title="卫视频道",探索频道
-http://iptv.huuc.edu.cn/hls/discovery.m3u8
-#EXTINF:-1 tvg-name="国家地理频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/国家地理频道.png" group-title="卫视频道",国家地理频道
-http://iptv.huuc.edu.cn/hls/natlgeo.m3u8
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑莓电影.png" group-title="体验频道",黑莓电影
 http://39.134.64.87:6610/PLTV/88888888/224/3221225743/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="超级电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NEWTV超级电影.png" group-title="体验频道",超级电影
