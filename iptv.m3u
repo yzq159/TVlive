@@ -281,7 +281,7 @@ http://61.221.215.25:8800/hls/49/index.m3u8
 http://41.205.93.154/CNBC/index.m3u8
 #EXTINF:-1 tvg-name="DELTA TV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/DELTA TV.png" group-title="港澳台频道",DELTA TV
 https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
-#EXTINF:-1 tvg-name="韩国新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/韩国新闻.png" group-title="港澳台频道",韩国新闻
+#EXTINF:-1 tvg-name="朝鲜新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/朝鲜新闻.png" group-title="港澳台频道",朝鲜新闻
 http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑莓动画.png" group-title="体验频道",黑莓动画
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226935/1.m3u8?
