@@ -295,7 +295,7 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 http://39.134.64.87:6610/PLTV/88888888/224/3221225717/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="动作电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动作电影.png" group-title="体验频道",动作电影
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226329/1.m3u8?
-#EXTINF:-1 tvg-name="超级电视剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NEWTV超级电视剧.png" group-title="体验频道",超级电视剧
+#EXTINF:-1 tvg-name="超级" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NEWTV超级电视剧.png" group-title="体验频道",超级电视剧
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226368/1.m3u8?
 #EXTINF:-1 tvg-name="超级电视剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NEWTV超级电视剧.png" group-title="体验频道",超级电视剧
 http://39.134.64.87:6610/PLTV/88888888/224/3221225716/index.m3u8?IASHttpSessionId=
@@ -415,8 +415,6 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226549/1.m3u8?
 #EXTINF:-1 tvg-name="无台标" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无台标.png" group-title="体验频道",无台标
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226325/1.m3u8?
-#EXTINF:-1 tvg-name="无台标2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无台标2.png" group-title="体验频道",无台标2
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226962/1.m3u8?
 #EXTINF:-1 tvg-name="咪咕" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频.png" group-title="咪咕视频",咪咕
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226373/1.m3u8?
 #EXTINF:-1 tvg-name="咪咕2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频.png" group-title="咪咕视频",咪咕2
